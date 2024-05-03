@@ -1,0 +1,1 @@
+{"request":{"hurl":"https:\/\/practice.ansab.site\/wp-content\/plugins\/copy-delete-posts\/assets\/js\/cdp-user.min.js","inline":"","enable_minification":true,"type":"js","handle":"cdp-js-user","version":"146"},"log":{"url":"\/wp-content\/plugins\/copy-delete-posts\/assets\/js\/cdp-user.min.js","success":true},"code":"jQuery(document).ready(function(e){});\n","status":true}
